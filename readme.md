@@ -1,1 +1,3 @@
-# WordPress Autoloader
+# WP Autoloader
+
+Simple autoloading for your WordPress plugins & themes.
